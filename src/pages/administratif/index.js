@@ -1,0 +1,12 @@
+export { default as AmendeForfaitaireForm } from './AmendeForfaitaireForm';
+export { default as AmendeForfaitaireList } from './AmendeForfaitaireList';
+export { default as AutresDeclarationsForm } from './AutresDeclarationsForm';
+export { default as AutresDeclarationsList } from './AutresDeclarationsList';
+export { default as CinForm } from './CinForm';
+export { default as CinList } from './CinList';
+export { default as DeclarationPerteForm } from './DeclarationPerteForm';
+export { default as DeclarationPerteList } from './DeclarationPerteList';
+export { default as ProcurationForm } from './ProcurationForm';
+export { default as ProcurationList } from './ProcurationList';
+export { default as ResidenceForm } from './ResidenceForm';
+export { default as ResidenceList } from './ResidenceList';
